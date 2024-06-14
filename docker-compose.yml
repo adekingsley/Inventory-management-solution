@@ -1,0 +1,14 @@
+version: '3.7'
+
+services:
+  api:
+    build:
+      context: .
+    image: inventory_api
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=sqlite:///app/db/db.sqlite3
+    user: www-data

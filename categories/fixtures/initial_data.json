@@ -1,0 +1,12 @@
+[
+    {
+        "model": "categories.category",
+        "pk": "e7d8f7b0-9a4f-4cbb-b8b1-0d93d8f7e123",
+        "fields": {
+            "name": "Electronics",
+            "description": "Electronic items",
+            "created_at": "2024-06-12T07:27:37Z",
+            "updated_at": "2024-06-12T07:27:37Z"
+        }
+    }
+]
