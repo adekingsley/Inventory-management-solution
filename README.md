@@ -64,7 +64,7 @@ The Inventory Management System is a comprehensive solution designed to manage a
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/adekingsley/inventory-management.git
+   git clone https://github.com/adekingsley/inventory-management-solution.git
    cd inventory-management
    ```
 
